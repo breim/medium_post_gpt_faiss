@@ -1,0 +1,4 @@
+db.faiss.npy
+index.faiss
+__pycache__
+.env
